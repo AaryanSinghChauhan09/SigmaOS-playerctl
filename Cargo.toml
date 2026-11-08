@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_playerctl"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS playerctl component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_playerctl"
+path = "src/lib.rs"
