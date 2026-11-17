@@ -3,7 +3,7 @@ name = "SigmaOS-playerctl"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "playerctl component"
+description = "SigmaOS SigmaOS-playerctl component"
 upstream = []
 
 [contract]
